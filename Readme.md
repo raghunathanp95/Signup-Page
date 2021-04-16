@@ -5,6 +5,10 @@ deployed in [Heroku](https://devcenter.heroku.com/articles/getting-started-with-
 
 Link to the site - [here](https://mysterious-woodland-49851.herokuapp.com/)
 
+## Node Dependencies
+
+`npm install` - installs npm and the project dependencies mentioned package jason file
+
 ## Deploying to heroku:
 
 Commands in the current project folder
